@@ -1,7 +1,9 @@
 <h1 align="center">Programmer's Jokes<br><h3 align="center"><i>Jokes for Programmers</i> 👨🏻‍💻 😂</h3><br>
 <h1 align="center"><img src="https://miro.medium.com/max/1400/1*KueXVwBtQpLwj0q6-SO9HA.png" height="500px" width="500px"><br>
   </h1>
-  
+ 
+ 
+ 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dhairyaostwal/Programmer-Jokes/pulls)
 [![Star Repo](https://img.shields.io/badge/Star%20Repo-Yay-yellow)](https://github.com/dhairyaostwal/Programmer-Jokes/stargazers)
 
@@ -21,9 +23,10 @@
 ```
 
 1. Install npm, express, body-parser, ejs & related packages
-2. Open localhost:3000 on your browser
-3. Enjoy the app 🎉
-4. Star the repo 😎
+2. Open terminal ➡️ node app.js
+3. Open localhost:3000 on your browser
+4. Enjoy the app 🎉
+5. Star the repo 😎
 
 ```
 
