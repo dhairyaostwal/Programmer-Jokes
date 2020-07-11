@@ -1,5 +1,5 @@
 <h1 align="center">Programmer's Jokes<br><h3 align="center"><i>Jokes for Programmers</i> 👨🏻‍💻 😂</h3><br>
-<h1 align="center"><img src="https://miro.medium.com/max/1400/1*KueXVwBtQpLwj0q6-SO9HA.png" height="500px" width="500px"><br>
+<h1 align="center"><img src="/demo.gif"><br>
   </h1>
  
  
