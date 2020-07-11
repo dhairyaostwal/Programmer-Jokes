@@ -1,0 +1,17 @@
+.btnalign{
+    text-align: center;
+}
+
+.h2edit{
+    text-transform: uppercase;
+    font-size: 0.5rem;
+    font-family: cursive;
+}
+
+.display-do{
+    font-family: 'Nanum Pen Script', cursive;
+    padding-top: 1rem;
+    font-size: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}

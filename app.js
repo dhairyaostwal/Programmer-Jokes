@@ -1,9 +1,13 @@
+
 const express = require('express');
 const https = require('https');
 const bodyParser = require('body-parser');
 const { response } = require('express');
 
 const app = express();
+app.use(express.static(__dirname + '/public'));
+
+app.set('view engine', 'ejs');
 
 app.get("/", function (req, res) {
     res.sendFile(__dirname + "/index.html");
@@ -24,13 +28,11 @@ app.post("/", function (req, res) {
 
             console.log(progJoke);
 
-            const h1Prop = "display-4";
-
-            res.write("<h1>");
-            res.write(progJoke);
-            res.write("</h1>");
-            res.send();
-
+            // res.write("<h1>");
+            // res.write(progJoke);
+            // res.write("</h1>");
+            // res.send();
+            res.render('list', {renderedJoke:progJoke});
 
         });
     });
