@@ -18,21 +18,24 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.post("/", function (req, res) {
     console.log("Post Recieved.");
 
-    const url = "https://sv443.net/jokeapi/v2/joke/Programming?type=single";
+    // const url = "https://sv443.net/jokeapi/v2/joke/Programming?type=single"; 
+    // New url (down) 
+    const url = "https://official-joke-api.appspot.com/jokes/programming/random#";
     https.get(url, function (response) {
 
 
         response.on("data", function (data) {
             const jokeData = JSON.parse(data);
-            const progJoke = jokeData.joke;
+            const progSetup = jokeData[0].setup;
+            const progAns = jokeData[0].punchline;
 
-            console.log(progJoke);
+            console.log(progSetup);
 
             // res.write("<h1>");
             // res.write(progJoke);
             // res.write("</h1>");
             // res.send();
-            res.render('list', {renderedJoke:progJoke});
+            res.render('list', {renderedJoke:progSetup, renderedAns:progAns});
 
         });
     });
