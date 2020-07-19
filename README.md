@@ -4,8 +4,10 @@
  
  
  
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dhairyaostwal/Programmer-Jokes/pulls)
-[![Star Repo](https://img.shields.io/badge/Star%20Repo-Yay-yellow)](https://github.com/dhairyaostwal/Programmer-Jokes/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightyellow?&style=for-the-badge)](https://github.com/dhairyaostwal/Programmer-Jokes/pulls)
+[![Star Repo](https://img.shields.io/badge/Star--Repo-Thanks-ffc30b?&style=for-the-badge)](https://github.com/dhairyaostwal/Programmer-Jokes/stargazers)
+[![Built-with-love](https://img.shields.io/badge/built--with-&hearts;-e11584?&style=for-the-badge)](#)
+
 
 ## Tech Stack Used
 
@@ -38,4 +40,4 @@
 
 Let's connect on 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairyaostwal/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/dhairyaostwal/) [![Medium](https://img.shields.io/badge/Medium-Follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@dhairyaostwal)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhairyaostwal/) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhairyaostwal/) [![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@dhairyaostwal)
